@@ -33,7 +33,7 @@ The splits of the dataset are contained in fold [dataset/dmr-fastfood](dataset/d
 
 ### Run the code
 
-The code of the our models is contained in fold [src](src/). 
+The code of the models is contained in fold [src](src/). Please refer to the paper for the details of the models.
 
 #### Install requirements
 
